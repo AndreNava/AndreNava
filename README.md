@@ -1,6 +1,6 @@
 # Hi there,👋 I'm Andre Nava
 
-## I am a jr frontend developer.
+## A jr frontend developer.
 
 - 👔 I studied  industrial robotics. 
 - 🌱 I’m currently learning frameworks like React and Angular.
